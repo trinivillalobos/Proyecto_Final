@@ -1,0 +1,10 @@
+Farmacia Nueva
+Fecha: Fri Mar 23 12:17:10 CST 2012
+
+Cant.	Producto			Precio
+1	paracetamol gra			78.0
+1	vitacilina bebe			45.0
+1	Ambroxol			35.5
+1	torolaco			345.8
+
+		Total: 			$504.3
